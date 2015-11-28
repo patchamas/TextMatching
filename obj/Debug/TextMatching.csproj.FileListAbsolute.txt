@@ -1,0 +1,9 @@
+E:\TextMatching\TextMatching\bin\Debug\TextMatching.exe.config
+E:\TextMatching\TextMatching\bin\Debug\TextMatching.exe
+E:\TextMatching\TextMatching\bin\Debug\TextMatching.pdb
+E:\TextMatching\TextMatching\obj\Debug\TextMatching.csprojResolveAssemblyReference.cache
+E:\TextMatching\TextMatching\obj\Debug\TextMatching.Form1.resources
+E:\TextMatching\TextMatching\obj\Debug\TextMatching.Properties.Resources.resources
+E:\TextMatching\TextMatching\obj\Debug\TextMatching.csproj.GenerateResource.Cache
+E:\TextMatching\TextMatching\obj\Debug\TextMatching.exe
+E:\TextMatching\TextMatching\obj\Debug\TextMatching.pdb
